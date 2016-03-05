@@ -1,3 +1,3 @@
-# boba-fett
-Yeoman WebApp Project
-WORK IN PROGRESS...
+# Yeoman WebApp Project
+
+Work in progress...
