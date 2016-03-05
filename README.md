@@ -1,0 +1,3 @@
+# Yeoman WebApp Project
+
+Work in progress...
