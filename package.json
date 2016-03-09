@@ -1,7 +1,8 @@
 {
   "private": true,
   "engines": {
-    "node": ">=0.12.0"
+    "node": "5.6.0",
+    "npm": "3.7.3"
   },
   "devDependencies": {
     "babel-core": "^6.4.0",
@@ -39,5 +40,29 @@
         "single"
       ]
     }
-  }
+  },
+  "name": "boba-fett",
+  "description": "Work in progress...",
+  "version": "1.0.0",
+  "main": "gulpfile.babel.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "generator-mocha": "^0.3.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholas-araujo/boba-fett.git"
+  },
+  "author": "m4rd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholas-araujo/boba-fett/issues"
+  },
+  "homepage": "https://github.com/nicholas-araujo/boba-fett#readme"
 }
